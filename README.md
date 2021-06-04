@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Projects
 
-1. [Project 1](https://jekyllrb.com/): Working with CLI, VSCode, and Node.js
+1. [Project 1](https://github.com/willyboyry/cit281-p1): Working with CLI, VSCode, and Node.js
 2. [Project 2](https://jekyllrb.com/): Working with CLI, Repos, and refactoring JS
 3. [Project 3](https://jekyllrb.com/): Working with Coinage JS, non-web server Node.js, Fastify
 4. [Project 4](https://jekyllrb.com/): Working with array/object importing and exporting, JSON, REST API server
