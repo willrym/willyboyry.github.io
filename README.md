@@ -22,14 +22,3 @@
 9.  [Lab 9](https://willyboyry.github.io/cit281-lab9/): Learning Lab course/repo with GitHub
 
 ![Sal](https://static.wikia.nocookie.net/impracticaljokers/images/d/d2/Sal.png/revision/latest/scale-to-width-down/361?cb=20190604013345)
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
