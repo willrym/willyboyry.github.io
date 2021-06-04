@@ -1,9 +1,5 @@
 ## Welcome to Willyboyry's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/willyboyry/willyboyry.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Projects
 
 1. [Project 1](https://willyboyry.github.io/cit281-p1/): Working with CLI, VSCode, and Node.js
@@ -26,17 +22,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 9.  [Lab 9](https://willyboyry.github.io/cit281-lab9/): Learning Lab course/repo with GitHub
 
 ![Sal](https://static.wikia.nocookie.net/impracticaljokers/images/d/d2/Sal.png/revision/latest/scale-to-width-down/361?cb=20190604013345)
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
 - List
 
 1. Numbered
